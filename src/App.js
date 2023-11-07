@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 //backend url
 // export const url = "https://password-reset-1ikr.onrender.com"
-export const url ="http://localhost:8000";
+export const url ="https://password-reset-backend-frya.onrender.com";
 
 
 function App() {
